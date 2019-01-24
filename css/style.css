@@ -16,6 +16,11 @@ img{
 	margin-bottom: 20px;
 }
 
+.info__me-href{
+	font-size: 20px;
+	font-weight: bold;
+}
+
 .info__counter img{
 	width: auto;
 }
